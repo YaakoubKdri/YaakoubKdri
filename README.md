@@ -1,19 +1,23 @@
-## Hey 👋 What's up?
+# Hi, I'm Yaakoub Kadri
 
-My name is Yaakoub and I'm a Full-Stack Java Developer based in the USA.
-
----
-
-## 🔹 About me
-
-✨ Passionate about building enterprise-grade, scalable applications  
-🌱 Currently strengthening my skills in cloud architecture, microservices, and system design  
-🎯 Goals: Build reliable, high-performance systems that solve real-world business problems  
-📘 Fun fact: I love optimizing legacy applications using clean architecture & DDD principles  
+I'm a Full-Stack Java Developer specializing in building scalable, cloud-native systems using Spring Boot, distributed architectures, and AWS.  
+I focus on delivering clean, maintainable solutions that improve performance, reliability, and operational efficiency.
 
 ---
 
-## 🧰 I code with
+## 🔧 Technical Focus
+
+- **Backend Engineering:** Java, Spring Boot, Spring Cloud, Microservices, Event-Driven Systems (Kafka, RabbitMQ)  
+- **Cloud & Infrastructure:** AWS (ECS, Lambda, RDS, S3, CloudFormation), Docker, Kubernetes  
+- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis  
+- **Frontend:** React.js, TypeScript, Modern UI development  
+- **DevOps & CI/CD:** Jenkins, GitHub Actions, ELK Stack, Grafana, Monitoring & Observability  
+- **Architecture & Patterns:** DDD, REST API design, System Design, Clean Architecture  
+
+---
+
+## 🛠️ Tools & Technologies I Work With
+
 
 <p>
   <!-- Languages -->
