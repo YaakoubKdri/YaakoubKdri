@@ -13,7 +13,7 @@ I focus on delivering clean, maintainable solutions that improve performance, re
 - **Frontend:** React.js, TypeScript, Modern UI development  
 - **DevOps & CI/CD:** Jenkins, GitHub Actions, ELK Stack, Grafana, Monitoring & Observability  
 - **Architecture & Patterns:** DDD, REST API design, System Design, Clean Architecture  
-
+- **API Design & Documentation:** OpenAPI/Swagger  
 ---
 
 ## 🛠️ Tools & Technologies I Work With
